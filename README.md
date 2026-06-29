@@ -12,4 +12,4 @@
 
 **Stack:** Python · LLMs / agents · RAG · FastAPI · Next.js / TypeScript · Supabase / Postgres · Docker · MQL4 / MQL5
 
-📫 [LinkedIn](www.linkedin.com/in/agustinurena) · [Mail](mailto:jorge@algocustom.com)
+📫 [LinkedIn](https://www.linkedin.com/in/agustinurena) · [Mail](mailto:jorge@algocustom.com)
